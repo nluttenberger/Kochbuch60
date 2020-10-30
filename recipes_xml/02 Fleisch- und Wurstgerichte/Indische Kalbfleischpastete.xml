@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE stylesheet SYSTEM "file:///C:/Users/nlutt/Documents/Websites/kochbuch/tools/entities.dtd">
+<fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:ht="http://www.w3.org/1999/xhtml" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/websites/Kochbuch50/tools/recipe.xsd      http://www.w3.org/1999/xhtml file:///c:/Users/nlutt/Documents/websites/Kochbuch50/tools/xhtml.xsd" rcpID="K60-02-09">
+    <fr:meta>
+        <fr:book>Kochbuch60</fr:book>
+        <fr:chapter>02 Fleisch- und Wurstgerichte</fr:chapter>
+    </fr:meta>
+    <fr:recipeName>Indische Kalbfleischpastete</fr:recipeName>
+    <fr:recipeKeywords/>
+    <fr:recipeIntro/>
+    <fr:recipeIngredients>
+        <fr:igdtList>
+            <fr:igdtListName/>
+            <fr:igdtListLine>
+                <fr:igdtQuantity>200 g</fr:igdtQuantity>
+                <fr:igdtName ref="kalbfleisch">Kalbfleisch</fr:igdtName>
+            </fr:igdtListLine>
+            <fr:igdtListLine>
+                <fr:igdtQuantity>60 g</fr:igdtQuantity>
+                <fr:igdtName ref="räucherspeck">Räucherspeck</fr:igdtName>
+            </fr:igdtListLine>
+            <fr:igdtListLine>
+                <fr:igdtQuantity>1</fr:igdtQuantity>
+                <fr:igdtName ref="zwiebel">Zwiebel</fr:igdtName>
+            </fr:igdtListLine>
+            <fr:igdtListLine>
+                <fr:igdtQuantity>125 g</fr:igdtQuantity>
+                <fr:igdtName ref="leber">Hühnerleber</fr:igdtName>
+            </fr:igdtListLine>
+            <fr:igdtListLine>
+                <fr:igdtQuantity>2 EL</fr:igdtQuantity>
+                <fr:igdtName ref="brot">Semmelmehl</fr:igdtName>
+            </fr:igdtListLine>
+            <fr:igdtListLine>
+                <fr:igdtQuantity>30 g</fr:igdtQuantity>
+                <fr:igdtName ref="butter">Butter</fr:igdtName>
+            </fr:igdtListLine>
+            <fr:igdtListLine>
+                <fr:igdtQuantity>2</fr:igdtQuantity>
+                <fr:igdtName ref="ei">Eier</fr:igdtName>
+            </fr:igdtListLine>
+            <fr:igdtListLine>
+                <fr:igdtQuantity>70 g</fr:igdtQuantity>
+                <fr:igdtName ref="champignon">Champignons</fr:igdtName>
+            </fr:igdtListLine>
+            <fr:igdtListLine>
+                <fr:igdtQuantity/>
+                <fr:igdtName ref="zitrone">abgeriebene Zitronenschale</fr:igdtName>
+            </fr:igdtListLine>
+            <fr:igdtListLine>
+                <fr:igdtQuantity/>
+                <fr:igdtName ref="">Salz</fr:igdtName>
+            </fr:igdtListLine>
+            <fr:igdtListLine>
+                <fr:igdtQuantity/>
+                <fr:igdtName ref="">Pfeffer</fr:igdtName>
+            </fr:igdtListLine>
+            <fr:igdtListLine>
+                <fr:igdtQuantity/>
+                <fr:igdtName ref="curry">Curry</fr:igdtName>
+            </fr:igdtListLine>
+            <fr:igdtListLine>
+                <fr:igdtQuantity/>
+                <fr:igdtName ref="">Bechamelsoße</fr:igdtName>
+            </fr:igdtListLine>
+        </fr:igdtList>
+    </fr:recipeIngredients>
+    <fr:recipeInstructions/>
+    <fr:recipeSideDish/>
+    <fr:recipeOrigin/>
+    <fr:recipeSeeAlso/>
+    <fr:recipeLicense/>
+</fr:recipe>
