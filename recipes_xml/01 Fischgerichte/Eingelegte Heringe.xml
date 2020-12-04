@@ -1,2 +1,53 @@
-<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE stylesheet SYSTEM "file:///C:/Users/nlutt/Documents/Websites/kochbuch/tools/entities.dtd"><fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:ht="http://www.w3.org/1999/xhtml" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/websites/Kochbuch50/tools/recipe.xsd      http://www.w3.org/1999/xhtml file:///c:/Users/nlutt/Documents/websites/Kochbuch50/tools/xhtml.xsd" rcpID="K60-01-02">
-<fr:meta><fr:book>Kochbuch60</fr:book><fr:chapter>01 Fischgerichte</fr:chapter></fr:meta><fr:recipeName>Eingelegte Heringe</fr:recipeName><fr:recipeKeywords></fr:recipeKeywords><fr:recipeIntro/><fr:recipeIngredients><fr:igdtList><fr:igdtListName></fr:igdtListName><fr:igdtListLine><fr:igdtQuantity>6 - 8</fr:igdtQuantity><fr:igdtName ref="hering">Salzheringe</fr:igdtName></fr:igdtListLine><fr:igdtListLine><fr:igdtQuantity>2 - 3</fr:igdtQuantity><fr:igdtName ref="zwiebel">Zwiebeln</fr:igdtName></fr:igdtListLine><fr:igdtListLine><fr:igdtQuantity>1/2</fr:igdtQuantity><fr:igdtName ref="lorbeer">Lorbeerblatt</fr:igdtName></fr:igdtListLine><fr:igdtListLine><fr:igdtQuantity>8</fr:igdtQuantity><fr:igdtName ref="pfeffer">Pfefferkörner</fr:igdtName></fr:igdtListLine><fr:igdtListLine><fr:igdtQuantity>1/4 l</fr:igdtQuantity><fr:igdtName ref="essig">Essig</fr:igdtName></fr:igdtListLine><fr:igdtListLine><fr:igdtQuantity>125 ml</fr:igdtQuantity><fr:igdtName ref="milch">Milch</fr:igdtName></fr:igdtListLine><fr:igdtListLine><fr:igdtQuantity>3 - 4 EL</fr:igdtQuantity><fr:igdtName ref="sahne">Sahne</fr:igdtName></fr:igdtListLine></fr:igdtList></fr:recipeIngredients><fr:recipeInstructions/><fr:recipeSideDish></fr:recipeSideDish><fr:recipeOrigin></fr:recipeOrigin><fr:recipeSeeAlso></fr:recipeSeeAlso><fr:recipeLicense></fr:recipeLicense></fr:recipe>
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE stylesheet SYSTEM "file:///C:/Users/nlutt/Documents/Websites/kochbuch/tools/entities.dtd">
+<fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:ht="http://www.w3.org/1999/xhtml" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/websites/tools/recipe.xsd" rcpID="K60-01-02">
+    <fr:meta>
+        <fr:book>Kochbuch60</fr:book>
+        <fr:chapter>01 Fischgerichte</fr:chapter>
+    </fr:meta>
+    <fr:recipeName>Eingelegte Heringe</fr:recipeName>
+    <fr:recipeKeywords/>
+    <fr:recipeIntro/>
+    <fr:recipeIngredients>
+        <fr:igdtList>
+            <fr:igdtListName/>
+            <fr:igdtListLine>
+                <fr:igdtQuantity>6 - 8</fr:igdtQuantity>
+                <fr:igdtName ref="hering">Salzheringe</fr:igdtName>
+            </fr:igdtListLine>
+            <fr:igdtListLine>
+                <fr:igdtQuantity>2 - 3</fr:igdtQuantity>
+                <fr:igdtName ref="zwiebel">Zwiebeln</fr:igdtName>
+            </fr:igdtListLine>
+            <fr:igdtListLine>
+                <fr:igdtQuantity>1/2</fr:igdtQuantity>
+                <fr:igdtName ref="lorbeer">Lorbeerblatt</fr:igdtName>
+            </fr:igdtListLine>
+            <fr:igdtListLine>
+                <fr:igdtQuantity>8</fr:igdtQuantity>
+                <fr:igdtName ref="pfeffer">Pfefferkörner</fr:igdtName>
+            </fr:igdtListLine>
+            <fr:igdtListLine>
+                <fr:igdtQuantity>1/4 l</fr:igdtQuantity>
+                <fr:igdtName ref="essig">Essig</fr:igdtName>
+            </fr:igdtListLine>
+            <fr:igdtListLine>
+                <fr:igdtQuantity>125 ml</fr:igdtQuantity>
+                <fr:igdtName ref="milch">Milch</fr:igdtName>
+            </fr:igdtListLine>
+            <fr:igdtListLine>
+                <fr:igdtQuantity>3 - 4 EL</fr:igdtQuantity>
+                <fr:igdtName ref="sahne">Sahne</fr:igdtName>
+            </fr:igdtListLine>
+        </fr:igdtList>
+    </fr:recipeIngredients>
+    <fr:recipeInstructions>         
+        <fr:instruction>
+            <fr:instrStepName></fr:instrStepName>
+            <fr:instrStepText></fr:instrStepText>
+        </fr:instruction>
+    </fr:recipeInstructions>
+    <fr:recipeSideDish/>
+    <fr:recipeOrigin/>
+    <fr:recipeSeeAlso/>
+    <fr:recipeLicense/>
+</fr:recipe>
