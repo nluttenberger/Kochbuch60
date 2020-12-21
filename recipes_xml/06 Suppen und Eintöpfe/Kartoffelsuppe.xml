@@ -1,4 +1,88 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE stylesheet SYSTEM "file:///C:/Users/nlutt/Documents/Websites/tools/entities.dtd">
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE stylesheet SYSTEM "file:///c:/users/nlutt/documents/Websites/tools/entities.dtd">
 <fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="K60-06-08">
-<fr:meta><fr:book>Kochbuch60</fr:book><fr:chapter>06 Suppen und Eintöpfe</fr:chapter></fr:meta><fr:recipeName>Kartoffelsuppe</fr:recipeName><fr:recipeKeywords></fr:recipeKeywords><fr:recipeIntro/><fr:recipeIngredients><fr:igdtList><fr:igdtListName></fr:igdtListName><fr:igdtListLine><fr:igdtQuantity>1,5 kg</fr:igdtQuantity><fr:igdtName ref="kartoffel">Kartoffeln</fr:igdtName></fr:igdtListLine><fr:igdtListLine><fr:igdtQuantity>1 Bund</fr:igdtQuantity><fr:igdtName ref="schnittlauch">Schnittlauch</fr:igdtName></fr:igdtListLine><fr:igdtListLine><fr:igdtQuantity>4 EL</fr:igdtQuantity><fr:igdtName ref="saure_sahne">saure Sahne</fr:igdtName></fr:igdtListLine><fr:igdtListLine><fr:igdtQuantity></fr:igdtQuantity><fr:igdtName ref="">Salz</fr:igdtName></fr:igdtListLine><fr:igdtListLine><fr:igdtQuantity></fr:igdtQuantity><fr:igdtName ref="">Pfeffer</fr:igdtName></fr:igdtListLine><fr:igdtListLine><fr:igdtQuantity></fr:igdtQuantity><fr:igdtName ref="majoran">Majoran</fr:igdtName></fr:igdtListLine></fr:igdtList><fr:igdtList noshow="noshow" fromRecipe="Graupensuppe" fromRcpID="K60-06-05" fromBook="Kochbuch60" fromChapter="06 Suppen und Eintöpfe"><fr:igdtListName>Grundrezept für Suppen</fr:igdtListName><fr:igdtListLine><fr:igdtQuantity>1½</fr:igdtQuantity><fr:igdtName ref="fleischbrühe">Fleischbrühe</fr:igdtName></fr:igdtListLine><fr:igdtListLine><fr:igdtQuantity>1</fr:igdtQuantity><fr:igdtName ref="lauch">Lauchstange</fr:igdtName></fr:igdtListLine><fr:igdtListLine><fr:igdtQuantity>1</fr:igdtQuantity><fr:igdtName ref="zwiebel">Zwiebel</fr:igdtName></fr:igdtListLine><fr:igdtListLine><fr:igdtQuantity>½ - 1</fr:igdtQuantity><fr:igdtName ref="knollensellerie">Knollensellerie</fr:igdtName></fr:igdtListLine><fr:igdtListLine><fr:igdtQuantity>4</fr:igdtQuantity><fr:igdtName ref="kartoffel">Kartoffeln</fr:igdtName></fr:igdtListLine><fr:igdtListLine><fr:igdtQuantity>400 g</fr:igdtQuantity><fr:igdtName ref="speck">magerer Speck</fr:igdtName></fr:igdtListLine><fr:igdtListLine><fr:igdtQuantity>1 EL</fr:igdtQuantity><fr:igdtName ref="petersilie">gehackte Petersilie</fr:igdtName></fr:igdtListLine><fr:igdtListLine><fr:igdtQuantity></fr:igdtQuantity><fr:igdtName ref="">Salz</fr:igdtName></fr:igdtListLine><fr:igdtListLine><fr:igdtQuantity></fr:igdtQuantity><fr:igdtName ref="">Pfeffer</fr:igdtName></fr:igdtListLine></fr:igdtList></fr:recipeIngredients>    <fr:recipeInstructions>                  <fr:instruction>             <fr:instrStepName></fr:instrStepName>             <fr:instrStepText></fr:instrStepText>         </fr:instruction>     </fr:recipeInstructions><fr:recipeSideDish></fr:recipeSideDish><fr:recipeOrigin></fr:recipeOrigin><fr:recipeSeeAlso></fr:recipeSeeAlso><fr:recipeLicense></fr:recipeLicense></fr:recipe>
+    <fr:meta>
+        <fr:book>Kochbuch60</fr:book>
+        <fr:chapter>06 Suppen und Eintöpfe</fr:chapter>
+    </fr:meta>
+    <fr:recipeName>Kartoffelsuppe</fr:recipeName>
+    <fr:recipeKeywords/>
+    <fr:recipeIntro/>
+    <fr:recipeIngredients>
+        <fr:igdtList>
+            <fr:igdtListName/>
+            <fr:igdtListLine>
+                <fr:igdtQuantity>1,5 kg</fr:igdtQuantity>
+                <fr:igdtName ref="kartoffel">Kartoffeln</fr:igdtName>
+            </fr:igdtListLine>
+            <fr:igdtListLine>
+                <fr:igdtQuantity>1 Bund</fr:igdtQuantity>
+                <fr:igdtName ref="schnittlauch">Schnittlauch</fr:igdtName>
+            </fr:igdtListLine>
+            <fr:igdtListLine>
+                <fr:igdtQuantity>4 EL</fr:igdtQuantity>
+                <fr:igdtName ref="saure_sahne">saure Sahne</fr:igdtName>
+            </fr:igdtListLine>
+            <fr:igdtListLine>
+                <fr:igdtQuantity/>
+                <fr:igdtName ref="">Salz</fr:igdtName>
+            </fr:igdtListLine>
+            <fr:igdtListLine>
+                <fr:igdtQuantity/>
+                <fr:igdtName ref="">Pfeffer</fr:igdtName>
+            </fr:igdtListLine>
+            <fr:igdtListLine>
+                <fr:igdtQuantity/>
+                <fr:igdtName ref="majoran">Majoran</fr:igdtName>
+            </fr:igdtListLine>
+        </fr:igdtList>
+        <fr:igdtList noshow="noshow" fromRecipe="Graupensuppe" fromRcpID="K60-06-05" fromBook="Kochbuch60" fromChapter="06 Suppen und Eintöpfe">
+            <fr:igdtListName>Grundrezept für Suppen</fr:igdtListName>
+            <fr:igdtListLine>
+                <fr:igdtQuantity>1½</fr:igdtQuantity>
+                <fr:igdtName ref="fleischbrühe">Fleischbrühe</fr:igdtName>
+            </fr:igdtListLine>
+            <fr:igdtListLine>
+                <fr:igdtQuantity>1</fr:igdtQuantity>
+                <fr:igdtName ref="lauch">Lauchstange</fr:igdtName>
+            </fr:igdtListLine>
+            <fr:igdtListLine>
+                <fr:igdtQuantity>1</fr:igdtQuantity>
+                <fr:igdtName ref="zwiebel">Zwiebel</fr:igdtName>
+            </fr:igdtListLine>
+            <fr:igdtListLine>
+                <fr:igdtQuantity>½ - 1</fr:igdtQuantity>
+                <fr:igdtName ref="knollensellerie">Knollensellerie</fr:igdtName>
+            </fr:igdtListLine>
+            <fr:igdtListLine>
+                <fr:igdtQuantity>4</fr:igdtQuantity>
+                <fr:igdtName ref="kartoffel">Kartoffeln</fr:igdtName>
+            </fr:igdtListLine>
+            <fr:igdtListLine>
+                <fr:igdtQuantity>400 g</fr:igdtQuantity>
+                <fr:igdtName ref="speck">magerer Speck</fr:igdtName>
+            </fr:igdtListLine>
+            <fr:igdtListLine>
+                <fr:igdtQuantity>1 EL</fr:igdtQuantity>
+                <fr:igdtName ref="petersilie">gehackte Petersilie</fr:igdtName>
+            </fr:igdtListLine>
+            <fr:igdtListLine>
+                <fr:igdtQuantity/>
+                <fr:igdtName ref="">Salz</fr:igdtName>
+            </fr:igdtListLine>
+            <fr:igdtListLine>
+                <fr:igdtQuantity/>
+                <fr:igdtName ref="">Pfeffer</fr:igdtName>
+            </fr:igdtListLine>
+        </fr:igdtList>
+    </fr:recipeIngredients>
+    <fr:recipeInstructions>
+        <fr:instruction>
+            <fr:instrStepName/>
+            <fr:instrStepText/>
+        </fr:instruction>
+    </fr:recipeInstructions>
+    <fr:recipeSideDish/>
+    <fr:recipeOrigin/>
+    <fr:recipeSeeAlso/>
+    <fr:recipeLicense/>
+</fr:recipe>

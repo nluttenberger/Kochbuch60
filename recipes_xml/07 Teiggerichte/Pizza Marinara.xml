@@ -1,4 +1,64 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE stylesheet SYSTEM "file:///C:/Users/nlutt/Documents/Websites/tools/entities.dtd">
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE stylesheet SYSTEM "file:///c:/users/nlutt/documents/Websites/tools/entities.dtd">
 <fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="K60-07-03">
-<fr:meta><fr:book>Kochbuch60</fr:book><fr:chapter>07 Teiggerichte</fr:chapter></fr:meta><fr:recipeName>Pizza Marinara</fr:recipeName><fr:recipeKeywords></fr:recipeKeywords><fr:recipeIntro/><fr:recipeIngredients><fr:igdtList><fr:igdtListName>Belag</fr:igdtListName><fr:igdtListLine><fr:igdtQuantity></fr:igdtQuantity><fr:igdtName ref="tomate">Tomaten</fr:igdtName></fr:igdtListLine><fr:igdtListLine><fr:igdtQuantity></fr:igdtQuantity><fr:igdtName ref="knoblauch">Knoblauch</fr:igdtName></fr:igdtListLine><fr:igdtListLine><fr:igdtQuantity></fr:igdtQuantity><fr:igdtName ref="">Olivenöl</fr:igdtName></fr:igdtListLine><fr:igdtListLine><fr:igdtQuantity></fr:igdtQuantity><fr:igdtName ref="oregano">Oregano</fr:igdtName></fr:igdtListLine></fr:igdtList><fr:igdtList noshow="noshow" fromRecipe="Pizza Margherita" fromRcpID="K60-07-02" fromBook="Kochbuch60" fromChapter="07 Teiggerichte"><fr:igdtListName>Pizzateig</fr:igdtListName><fr:igdtListLine><fr:igdtQuantity>500 g</fr:igdtQuantity><fr:igdtName ref="weizenmehl">Mehl (Weizenmehl Typ 550)</fr:igdtName></fr:igdtListLine><fr:igdtListLine><fr:igdtQuantity>250 g</fr:igdtQuantity><fr:igdtName ref="">lauwarmes Wasser (oder 125 g Wasser und 125 g Weißwein)</fr:igdtName></fr:igdtListLine><fr:igdtListLine><fr:igdtQuantity>2 EL</fr:igdtQuantity><fr:igdtName ref="öl">Olivenöl</fr:igdtName></fr:igdtListLine><fr:igdtListLine><fr:igdtQuantity>20 g</fr:igdtQuantity><fr:igdtName ref="hefe">Hefe</fr:igdtName></fr:igdtListLine><fr:igdtListLine><fr:igdtQuantity>7 g</fr:igdtQuantity><fr:igdtName ref="">Salz</fr:igdtName></fr:igdtListLine></fr:igdtList></fr:recipeIngredients>    <fr:recipeInstructions>                  <fr:instruction>             <fr:instrStepName></fr:instrStepName>             <fr:instrStepText></fr:instrStepText>         </fr:instruction>     </fr:recipeInstructions><fr:recipeSideDish></fr:recipeSideDish><fr:recipeOrigin></fr:recipeOrigin><fr:recipeSeeAlso></fr:recipeSeeAlso><fr:recipeLicense></fr:recipeLicense></fr:recipe>
+    <fr:meta>
+        <fr:book>Kochbuch60</fr:book>
+        <fr:chapter>07 Teiggerichte</fr:chapter>
+    </fr:meta>
+    <fr:recipeName>Pizza Marinara</fr:recipeName>
+    <fr:recipeKeywords/>
+    <fr:recipeIntro/>
+    <fr:recipeIngredients>
+        <fr:igdtList>
+            <fr:igdtListName>Belag</fr:igdtListName>
+            <fr:igdtListLine>
+                <fr:igdtQuantity/>
+                <fr:igdtName ref="tomate">Tomaten</fr:igdtName>
+            </fr:igdtListLine>
+            <fr:igdtListLine>
+                <fr:igdtQuantity/>
+                <fr:igdtName ref="knoblauch">Knoblauch</fr:igdtName>
+            </fr:igdtListLine>
+            <fr:igdtListLine>
+                <fr:igdtQuantity/>
+                <fr:igdtName ref="">Olivenöl</fr:igdtName>
+            </fr:igdtListLine>
+            <fr:igdtListLine>
+                <fr:igdtQuantity/>
+                <fr:igdtName ref="oregano">Oregano</fr:igdtName>
+            </fr:igdtListLine>
+        </fr:igdtList>
+        <fr:igdtList noshow="noshow" fromRecipe="Pizza Margherita" fromRcpID="K60-07-02" fromBook="Kochbuch60" fromChapter="07 Teiggerichte">
+            <fr:igdtListName>Pizzateig</fr:igdtListName>
+            <fr:igdtListLine>
+                <fr:igdtQuantity>500 g</fr:igdtQuantity>
+                <fr:igdtName ref="weizenmehl">Mehl (Weizenmehl Typ 550)</fr:igdtName>
+            </fr:igdtListLine>
+            <fr:igdtListLine>
+                <fr:igdtQuantity>250 g</fr:igdtQuantity>
+                <fr:igdtName ref="">lauwarmes Wasser (oder 125 g Wasser und 125 g Weißwein)</fr:igdtName>
+            </fr:igdtListLine>
+            <fr:igdtListLine>
+                <fr:igdtQuantity>2 EL</fr:igdtQuantity>
+                <fr:igdtName ref="öl">Olivenöl</fr:igdtName>
+            </fr:igdtListLine>
+            <fr:igdtListLine>
+                <fr:igdtQuantity>20 g</fr:igdtQuantity>
+                <fr:igdtName ref="hefe">Hefe</fr:igdtName>
+            </fr:igdtListLine>
+            <fr:igdtListLine>
+                <fr:igdtQuantity>7 g</fr:igdtQuantity>
+                <fr:igdtName ref="">Salz</fr:igdtName>
+            </fr:igdtListLine>
+        </fr:igdtList>
+    </fr:recipeIngredients>
+    <fr:recipeInstructions>
+        <fr:instruction>
+            <fr:instrStepName/>
+            <fr:instrStepText/>
+        </fr:instruction>
+    </fr:recipeInstructions>
+    <fr:recipeSideDish/>
+    <fr:recipeOrigin/>
+    <fr:recipeSeeAlso/>
+    <fr:recipeLicense/>
+</fr:recipe>
