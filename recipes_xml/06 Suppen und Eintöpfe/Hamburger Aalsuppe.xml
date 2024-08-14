@@ -1,2 +1,96 @@
-<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE stylesheet SYSTEM "file:///c:/users/nlutt/documents/Websites/tools/entities.dtd"><fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:ht="http://www.w3.org/1999/xhtml" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/websites/tools/recipe.xsd" rcpID="K60-06-07">
-<fr:meta><fr:book>Kochbuch60</fr:book><fr:chapter>06 Suppen und Eintöpfe</fr:chapter></fr:meta><fr:recipeName>Hamburger Aalsuppe</fr:recipeName><fr:recipeKeywords></fr:recipeKeywords><fr:recipeIntro/><fr:recipeIngredients><fr:igdtList><fr:igdtListName></fr:igdtListName><fr:igdtListLine><fr:igdtQuantity>1</fr:igdtQuantity><fr:igdtName ref="knochen">Schinkenknochen</fr:igdtName></fr:igdtListLine><fr:igdtListLine><fr:igdtQuantity>1 l</fr:igdtQuantity><fr:igdtName ref="">Wasser</fr:igdtName></fr:igdtListLine><fr:igdtListLine><fr:igdtQuantity>250 g</fr:igdtQuantity><fr:igdtName ref="knollensellerie">Sellerie</fr:igdtName></fr:igdtListLine><fr:igdtListLine><fr:igdtQuantity>4</fr:igdtQuantity><fr:igdtName ref="karotte">Mohrrüben</fr:igdtName></fr:igdtListLine><fr:igdtListLine><fr:igdtQuantity>2 Stangen</fr:igdtQuantity><fr:igdtName ref="lauch">Porree</fr:igdtName></fr:igdtListLine><fr:igdtListLine><fr:igdtQuantity>1</fr:igdtQuantity><fr:igdtName ref="petersilienwurzel">Petersilienwurzel</fr:igdtName></fr:igdtListLine><fr:igdtListLine><fr:igdtQuantity>1 Löffelspitze</fr:igdtQuantity><fr:igdtName ref="majoran">Majoran</fr:igdtName></fr:igdtListLine><fr:igdtListLine><fr:igdtQuantity>1 Löffelspitze</fr:igdtQuantity><fr:igdtName ref="estragon">Estragon</fr:igdtName></fr:igdtListLine><fr:igdtListLine><fr:igdtQuantity>1 Löffelspitze</fr:igdtQuantity><fr:igdtName ref="thymian">Thymian</fr:igdtName></fr:igdtListLine><fr:igdtListLine><fr:igdtQuantity>1/2</fr:igdtQuantity><fr:igdtName ref="lorbeer">Lorbeerblatt</fr:igdtName></fr:igdtListLine><fr:igdtListLine><fr:igdtQuantity>1 Tasse</fr:igdtQuantity><fr:igdtName ref="erbsen">frische grüne Erbsen</fr:igdtName></fr:igdtListLine><fr:igdtListLine><fr:igdtQuantity>150 g</fr:igdtQuantity><fr:igdtName ref="birne">getrocknete Birnen</fr:igdtName></fr:igdtListLine><fr:igdtListLine><fr:igdtQuantity>500 g</fr:igdtQuantity><fr:igdtName ref="aal">frischer Aal</fr:igdtName></fr:igdtListLine><fr:igdtListLine><fr:igdtQuantity>2 EL</fr:igdtQuantity><fr:igdtName ref="weizenmehl">Mehl</fr:igdtName></fr:igdtListLine><fr:igdtListLine><fr:igdtQuantity></fr:igdtQuantity><fr:igdtName ref="">Salz</fr:igdtName></fr:igdtListLine><fr:igdtListLine><fr:igdtQuantity></fr:igdtQuantity><fr:igdtName ref="essig">Essig</fr:igdtName></fr:igdtListLine><fr:igdtListLine><fr:igdtQuantity></fr:igdtQuantity><fr:igdtName ref="zucker">Zucker</fr:igdtName></fr:igdtListLine><fr:igdtListLine><fr:igdtQuantity></fr:igdtQuantity><fr:igdtName ref="kräuter">Frische Kräuter nach Belieben z.B. Petersilie, Dill, Kerbel</fr:igdtName></fr:igdtListLine></fr:igdtList></fr:recipeIngredients>    <fr:recipeInstructions>                  <fr:instruction>             <fr:instrStepName></fr:instrStepName>             <fr:instrStepText></fr:instrStepText>         </fr:instruction>     </fr:recipeInstructions><fr:recipeSideDish></fr:recipeSideDish><fr:recipeOrigin></fr:recipeOrigin><fr:recipeSeeAlso></fr:recipeSeeAlso><fr:recipeLicense></fr:recipeLicense></fr:recipe>
+<ns0:recipe xmlns:ns0="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/websites/tools/recipe.xsd" rcpID="K60-06-07">
+  <ns0:meta>
+    <ns0:book>Kochbuch60</ns0:book>
+    <ns0:chapter>06 Suppen und Eint&#246;pfe</ns0:chapter>
+  </ns0:meta>
+  <ns0:recipeName>Hamburger Aalsuppe</ns0:recipeName>
+  <ns0:recipeKeywords />
+  <ns0:recipeIntro />
+  <ns0:recipeIngredients>
+    <ns0:igdtList>
+      <ns0:igdtListName />
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>1</ns0:igdtQuantity>
+        <ns0:igdtName ref="schinken">Schinkenknochen</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>1 l</ns0:igdtQuantity>
+        <ns0:igdtName ref="">Wasser</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>250 g</ns0:igdtQuantity>
+        <ns0:igdtName ref="knollensellerie">Sellerie</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>4</ns0:igdtQuantity>
+        <ns0:igdtName ref="steckr&#252;be">Mohrr&#252;ben</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>2 Stangen</ns0:igdtQuantity>
+        <ns0:igdtName ref="lauch">Porree</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>1</ns0:igdtQuantity>
+        <ns0:igdtName ref="petersilienwurzel">Petersilienwurzel</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>1 L&#246;ffelspitze</ns0:igdtQuantity>
+        <ns0:igdtName ref="majoran">Majoran</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>1 L&#246;ffelspitze</ns0:igdtQuantity>
+        <ns0:igdtName ref="estragon">Estragon</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>1 L&#246;ffelspitze</ns0:igdtQuantity>
+        <ns0:igdtName ref="thymian">Thymian</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>1/2</ns0:igdtQuantity>
+        <ns0:igdtName ref="lorbeer">Lorbeerblatt</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>1 Tasse</ns0:igdtQuantity>
+        <ns0:igdtName ref="erbsen">frische gr&#252;ne Erbsen</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>150 g</ns0:igdtQuantity>
+        <ns0:igdtName ref="birne">getrocknete Birnen</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>500 g</ns0:igdtQuantity>
+        <ns0:igdtName ref="aal">frischer Aal</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>2 EL</ns0:igdtQuantity>
+        <ns0:igdtName ref="weizenmehl">Mehl</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity />
+        <ns0:igdtName ref="">Salz</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity />
+        <ns0:igdtName ref="essig">Essig</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity />
+        <ns0:igdtName ref="zucker">Zucker</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity />
+        <ns0:igdtName ref="petersilie">Frische Kr&#228;uter nach Belieben z.B. Petersilie, Dill, Kerbel</ns0:igdtName>
+      </ns0:igdtListLine>
+    </ns0:igdtList>
+  </ns0:recipeIngredients>
+  <ns0:recipeInstructions>
+    <ns0:instruction>
+      <ns0:instrStepName />
+      <ns0:instrStepText />
+    </ns0:instruction>
+  </ns0:recipeInstructions>
+  <ns0:recipeSideDish />
+  <ns0:recipeOrigin />
+  <ns0:recipeSeeAlso />
+  <ns0:recipeLicense />
+</ns0:recipe>

@@ -1,64 +1,68 @@
-<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE stylesheet SYSTEM "file:///c:/users/nlutt/documents/Websites/tools/entities.dtd">
-<fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="K60-06-17">
-    <fr:meta>
-        <fr:book>Kochbuch60</fr:book>
-        <fr:chapter>06 Suppen und Eintöpfe</fr:chapter>
-    </fr:meta>
-    <fr:recipeName>Schwarze Suppe</fr:recipeName>
-    <fr:recipeKeywords/>
-    <fr:recipeIntro/>
-    <fr:recipeIngredients>
-        <fr:igdtList>
-            <fr:igdtListName/>
-            <fr:igdtListLine>
-                <fr:igdtQuantity/>
-                <fr:igdtName ref="pfoten">Pfoten</fr:igdtName>
-            </fr:igdtListLine>
-            <fr:igdtListLine>
-                <fr:igdtQuantity/>
-                <fr:igdtName ref="ohren">Ohren</fr:igdtName>
-            </fr:igdtListLine>
-            <fr:igdtListLine>
-                <fr:igdtQuantity/>
-                <fr:igdtName ref="schnauze">Schnauze</fr:igdtName>
-            </fr:igdtListLine>
-            <fr:igdtListLine>
-                <fr:igdtQuantity>1</fr:igdtQuantity>
-                <fr:igdtName ref="niere">Niere</fr:igdtName>
-            </fr:igdtListLine>
-            <fr:igdtListLine>
-                <fr:igdtQuantity/>
-                <fr:igdtName ref="blut">Blut</fr:igdtName>
-            </fr:igdtListLine>
-            <fr:igdtListLine>
-                <fr:igdtQuantity>500 g</fr:igdtQuantity>
-                <fr:igdtName ref="backobst">Backpflaumen</fr:igdtName>
-            </fr:igdtListLine>
-            <fr:igdtListLine>
-                <fr:igdtQuantity/>
-                <fr:igdtName ref="lorbeer">Lorbeerblatt</fr:igdtName>
-            </fr:igdtListLine>
-            <fr:igdtListLine>
-                <fr:igdtQuantity/>
-                <fr:igdtName ref="piment">heller Nelkenpfeffer</fr:igdtName>
-            </fr:igdtListLine>
-            <fr:igdtListLine>
-                <fr:igdtQuantity/>
-                <fr:igdtName ref="weizenmehl">Mehl</fr:igdtName>
-            </fr:igdtListLine>
-            <fr:igdtListLine>
-                <fr:igdtQuantity/>
-                <fr:igdtName ref="essig">Essig</fr:igdtName>
-            </fr:igdtListLine>
-            <fr:igdtListLine>
-                <fr:igdtQuantity/>
-                <fr:igdtName ref="zucker">Zucker</fr:igdtName>
-            </fr:igdtListLine>
-        </fr:igdtList>
-    </fr:recipeIngredients>
-        <fr:recipeInstructions>                  <fr:instruction>             <fr:instrStepName></fr:instrStepName>             <fr:instrStepText></fr:instrStepText>         </fr:instruction>     </fr:recipeInstructions>
-    <fr:recipeSideDish/>
-    <fr:recipeOrigin/>
-    <fr:recipeSeeAlso/>
-    <fr:recipeLicense/>
-</fr:recipe>
+<ns0:recipe xmlns:ns0="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="K60-06-17">
+  <ns0:meta>
+    <ns0:book>Kochbuch60</ns0:book>
+    <ns0:chapter>06 Suppen und Eint&#246;pfe</ns0:chapter>
+  </ns0:meta>
+  <ns0:recipeName>Schwarze Suppe</ns0:recipeName>
+  <ns0:recipeKeywords />
+  <ns0:recipeIntro />
+  <ns0:recipeIngredients>
+    <ns0:igdtList>
+      <ns0:igdtListName />
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity />
+        <ns0:igdtName ref="pfoten">Pfoten</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity />
+        <ns0:igdtName ref="ohren">Ohren</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity />
+        <ns0:igdtName ref="schnauze">Schnauze</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>1</ns0:igdtQuantity>
+        <ns0:igdtName ref="niere">Niere</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity />
+        <ns0:igdtName ref="blut">Blut</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>500 g</ns0:igdtQuantity>
+        <ns0:igdtName ref="backpflaume">Backpflaumen</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity />
+        <ns0:igdtName ref="lorbeer">Lorbeerblatt</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity />
+        <ns0:igdtName ref="piment">heller Nelkenpfeffer</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity />
+        <ns0:igdtName ref="weizenmehl">Mehl</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity />
+        <ns0:igdtName ref="essig">Essig</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity />
+        <ns0:igdtName ref="zucker">Zucker</ns0:igdtName>
+      </ns0:igdtListLine>
+    </ns0:igdtList>
+  </ns0:recipeIngredients>
+  <ns0:recipeInstructions>
+    <ns0:instruction>
+      <ns0:instrStepName />
+      <ns0:instrStepText />
+    </ns0:instruction>
+  </ns0:recipeInstructions>
+  <ns0:recipeSideDish />
+  <ns0:recipeOrigin />
+  <ns0:recipeSeeAlso />
+  <ns0:recipeLicense />
+</ns0:recipe>

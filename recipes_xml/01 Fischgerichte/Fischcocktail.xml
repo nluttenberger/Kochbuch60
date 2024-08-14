@@ -1,69 +1,68 @@
-<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE stylesheet SYSTEM "file:///c:/users/nlutt/documents/Websites/tools/entities.dtd">
-<fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="K60-01-04">
-    <fr:meta>
-        <fr:book>Kochbuch60</fr:book>
-        <fr:chapter>01 Fischgerichte</fr:chapter>
-    </fr:meta>
-    <fr:recipeName>Fischcocktail</fr:recipeName>
-    <fr:recipeKeywords/>
-    <fr:recipeIntro/>
-    <fr:recipeIngredients>
-        <fr:igdtList>
-            <fr:igdtListName/>
-            <fr:igdtListLine>
-                <fr:igdtQuantity>350 g</fr:igdtQuantity>
-                <fr:igdtName ref="fisch">gekochter Fisch</fr:igdtName>
-            </fr:igdtListLine>
-            <fr:igdtListLine>
-                <fr:igdtQuantity>150 g</fr:igdtQuantity>
-                <fr:igdtName ref="mayonnaise">Mayonnaise</fr:igdtName>
-            </fr:igdtListLine>
-            <fr:igdtListLine>
-                <fr:igdtQuantity>½</fr:igdtQuantity>
-                <fr:igdtName ref="gurke">frische Salatgurke</fr:igdtName>
-            </fr:igdtListLine>
-            <fr:igdtListLine>
-                <fr:igdtQuantity>125 ml</fr:igdtQuantity>
-                <fr:igdtName ref="sahne">Sahne</fr:igdtName>
-            </fr:igdtListLine>
-            <fr:igdtListLine>
-                <fr:igdtQuantity>4</fr:igdtQuantity>
-                <fr:igdtName ref="tomate">feste Tomaten</fr:igdtName>
-            </fr:igdtListLine>
-            <fr:igdtListLine>
-                <fr:igdtQuantity>4 - 6</fr:igdtQuantity>
-                <fr:igdtName ref="salat">Salatblätter</fr:igdtName>
-            </fr:igdtListLine>
-            <fr:igdtListLine>
-                <fr:igdtQuantity/>
-                <fr:igdtName ref="dill">Dill</fr:igdtName>
-            </fr:igdtListLine>
-            <fr:igdtListLine>
-                <fr:igdtQuantity/>
-                <fr:igdtName ref="curry">Curry</fr:igdtName>
-            </fr:igdtListLine>
-            <fr:igdtListLine>
-                <fr:igdtQuantity/>
-                <fr:igdtName ref="">Salz</fr:igdtName>
-            </fr:igdtListLine>
-            <fr:igdtListLine>
-                <fr:igdtQuantity/>
-                <fr:igdtName ref="">Pfeffer</fr:igdtName>
-            </fr:igdtListLine>
-            <fr:igdtListLine>
-                <fr:igdtQuantity/>
-                <fr:igdtName ref="zitrone">Zitronensaft oder Essig</fr:igdtName>
-            </fr:igdtListLine>
-        </fr:igdtList>
-    </fr:recipeIngredients>
-    <fr:recipeInstructions>
-        <fr:instruction>
-            <fr:instrStepName/>
-            <fr:instrStepText/>
-        </fr:instruction>
-    </fr:recipeInstructions>
-    <fr:recipeSideDish/>
-    <fr:recipeOrigin/>
-    <fr:recipeSeeAlso/>
-    <fr:recipeLicense/>
-</fr:recipe>
+<ns0:recipe xmlns:ns0="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="K60-01-04">
+  <ns0:meta>
+    <ns0:book>Kochbuch60</ns0:book>
+    <ns0:chapter>01 Fischgerichte</ns0:chapter>
+  </ns0:meta>
+  <ns0:recipeName>Fischcocktail</ns0:recipeName>
+  <ns0:recipeKeywords />
+  <ns0:recipeIntro />
+  <ns0:recipeIngredients>
+    <ns0:igdtList>
+      <ns0:igdtListName />
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>350 g</ns0:igdtQuantity>
+        <ns0:igdtName ref="fisch">gekochter Fisch</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>150 g</ns0:igdtQuantity>
+        <ns0:igdtName ref="mayonnaise">Mayonnaise</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>&#189;</ns0:igdtQuantity>
+        <ns0:igdtName ref="gurke">frische Salatgurke</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>125 ml</ns0:igdtQuantity>
+        <ns0:igdtName ref="sahne">Sahne</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>4</ns0:igdtQuantity>
+        <ns0:igdtName ref="tomate">feste Tomaten</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>4 - 6</ns0:igdtQuantity>
+        <ns0:igdtName ref="salat">Salatbl&#228;tter</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity />
+        <ns0:igdtName ref="dill">Dill</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity />
+        <ns0:igdtName ref="curry">Curry</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity />
+        <ns0:igdtName ref="">Salz</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity />
+        <ns0:igdtName ref="pfeffer">Pfeffer</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity />
+        <ns0:igdtName ref="zitrone">Zitronensaft oder Essig</ns0:igdtName>
+      </ns0:igdtListLine>
+    </ns0:igdtList>
+  </ns0:recipeIngredients>
+  <ns0:recipeInstructions>
+    <ns0:instruction>
+      <ns0:instrStepName />
+      <ns0:instrStepText />
+    </ns0:instruction>
+  </ns0:recipeInstructions>
+  <ns0:recipeSideDish />
+  <ns0:recipeOrigin />
+  <ns0:recipeSeeAlso />
+  <ns0:recipeLicense />
+</ns0:recipe>

@@ -1,2 +1,60 @@
-<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE stylesheet SYSTEM "file:///c:/users/nlutt/documents/Websites/tools/entities.dtd"><fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:ht="http://www.w3.org/1999/xhtml" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/websites/tools/recipe.xsd" rcpID="K60-05-03">
-<fr:meta><fr:book>Kochbuch60</fr:book><fr:chapter>05 Salate und Gemüse</fr:chapter></fr:meta><fr:recipeName>Gurkensalat mit Kartoffelpüree</fr:recipeName><fr:recipeKeywords></fr:recipeKeywords><fr:recipeIntro/><fr:recipeIngredients><fr:igdtList><fr:igdtListName></fr:igdtListName><fr:igdtListLine><fr:igdtQuantity>1 </fr:igdtQuantity><fr:igdtName ref="gurke">große Salatgurke</fr:igdtName></fr:igdtListLine><fr:igdtListLine><fr:igdtQuantity>1/2 Bund</fr:igdtQuantity><fr:igdtName ref="dill">Dill</fr:igdtName></fr:igdtListLine><fr:igdtListLine><fr:igdtQuantity>1 TL</fr:igdtQuantity><fr:igdtName ref="">Salz</fr:igdtName></fr:igdtListLine><fr:igdtListLine><fr:igdtQuantity></fr:igdtQuantity><fr:igdtName ref="">Pfeffer</fr:igdtName></fr:igdtListLine><fr:igdtListLine><fr:igdtQuantity>1 TL</fr:igdtQuantity><fr:igdtName ref="zitrone">Zitronensaft</fr:igdtName></fr:igdtListLine><fr:igdtListLine><fr:igdtQuantity>1</fr:igdtQuantity><fr:igdtName ref="kartoffel">Kartoffeln (mehlig kochend)</fr:igdtName></fr:igdtListLine><fr:igdtListLine><fr:igdtQuantity>2</fr:igdtQuantity><fr:igdtName ref="lauchzwiebel">Lauchzwiebeln</fr:igdtName></fr:igdtListLine><fr:igdtListLine><fr:igdtQuantity>3 EL</fr:igdtQuantity><fr:igdtName ref="öl">Olivenöl</fr:igdtName></fr:igdtListLine><fr:igdtListLine><fr:igdtQuantity>100 g</fr:igdtQuantity><fr:igdtName ref="räucherspeck">Schinkenspeck</fr:igdtName></fr:igdtListLine></fr:igdtList></fr:recipeIngredients>    <fr:recipeInstructions>                  <fr:instruction>             <fr:instrStepName></fr:instrStepName>             <fr:instrStepText></fr:instrStepText>         </fr:instruction>     </fr:recipeInstructions><fr:recipeSideDish></fr:recipeSideDish><fr:recipeOrigin></fr:recipeOrigin><fr:recipeSeeAlso></fr:recipeSeeAlso><fr:recipeLicense></fr:recipeLicense></fr:recipe>
+<ns0:recipe xmlns:ns0="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/websites/tools/recipe.xsd" rcpID="K60-05-03">
+  <ns0:meta>
+    <ns0:book>Kochbuch60</ns0:book>
+    <ns0:chapter>05 Salate und Gem&#252;se</ns0:chapter>
+  </ns0:meta>
+  <ns0:recipeName>Gurkensalat mit Kartoffelp&#252;ree</ns0:recipeName>
+  <ns0:recipeKeywords />
+  <ns0:recipeIntro />
+  <ns0:recipeIngredients>
+    <ns0:igdtList>
+      <ns0:igdtListName />
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>1 </ns0:igdtQuantity>
+        <ns0:igdtName ref="gurke">gro&#223;e Salatgurke</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>1/2 Bund</ns0:igdtQuantity>
+        <ns0:igdtName ref="dill">Dill</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>1 TL</ns0:igdtQuantity>
+        <ns0:igdtName ref="">Salz</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity />
+        <ns0:igdtName ref="pfeffer">Pfeffer</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>1 TL</ns0:igdtQuantity>
+        <ns0:igdtName ref="zitrone">Zitronensaft</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>1</ns0:igdtQuantity>
+        <ns0:igdtName ref="kartoffel">Kartoffeln (mehlig kochend)</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>2</ns0:igdtQuantity>
+        <ns0:igdtName ref="lauchzwiebel">Lauchzwiebeln</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>3 EL</ns0:igdtQuantity>
+        <ns0:igdtName ref="oliven&#246;l">Oliven&#246;l</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>100 g</ns0:igdtQuantity>
+        <ns0:igdtName ref="schinken">Schinkenspeck</ns0:igdtName>
+      </ns0:igdtListLine>
+    </ns0:igdtList>
+  </ns0:recipeIngredients>
+  <ns0:recipeInstructions>
+    <ns0:instruction>
+      <ns0:instrStepName />
+      <ns0:instrStepText />
+    </ns0:instruction>
+  </ns0:recipeInstructions>
+  <ns0:recipeSideDish />
+  <ns0:recipeOrigin />
+  <ns0:recipeSeeAlso />
+  <ns0:recipeLicense />
+</ns0:recipe>

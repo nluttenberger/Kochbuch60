@@ -1,2 +1,48 @@
-<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE stylesheet SYSTEM "file:///c:/users/nlutt/documents/Websites/tools/entities.dtd"><fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:ht="http://www.w3.org/1999/xhtml" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/websites/tools/recipe.xsd" rcpID="K60-01-06">
-<fr:meta><fr:book>Kochbuch60</fr:book><fr:chapter>01 Fischgerichte</fr:chapter></fr:meta><fr:recipeName>Heringe mit Zwiebeln, in sauerer Soße eingelegt</fr:recipeName><fr:recipeKeywords></fr:recipeKeywords><fr:recipeIntro/><fr:recipeIngredients><fr:igdtList><fr:igdtListName></fr:igdtListName><fr:igdtListLine><fr:igdtQuantity>4 kg</fr:igdtQuantity><fr:igdtName ref="hering">Salzheringe</fr:igdtName></fr:igdtListLine><fr:igdtListLine><fr:igdtQuantity>1 kg</fr:igdtQuantity><fr:igdtName ref="zwiebel">Zwiebeln</fr:igdtName></fr:igdtListLine><fr:igdtListLine><fr:igdtQuantity>0,5 l</fr:igdtQuantity><fr:igdtName ref="saure_sahne">Saure Sahne</fr:igdtName></fr:igdtListLine><fr:igdtListLine><fr:igdtQuantity></fr:igdtQuantity><fr:igdtName ref="">Salz</fr:igdtName></fr:igdtListLine><fr:igdtListLine><fr:igdtQuantity></fr:igdtQuantity><fr:igdtName ref="">Pfeffer</fr:igdtName></fr:igdtListLine><fr:igdtListLine><fr:igdtQuantity></fr:igdtQuantity><fr:igdtName ref="zitrone">Zitronensaft</fr:igdtName></fr:igdtListLine></fr:igdtList></fr:recipeIngredients>    <fr:recipeInstructions>                  <fr:instruction>             <fr:instrStepName></fr:instrStepName>             <fr:instrStepText></fr:instrStepText>         </fr:instruction>     </fr:recipeInstructions><fr:recipeSideDish></fr:recipeSideDish><fr:recipeOrigin></fr:recipeOrigin><fr:recipeSeeAlso></fr:recipeSeeAlso><fr:recipeLicense></fr:recipeLicense></fr:recipe>
+<ns0:recipe xmlns:ns0="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/websites/tools/recipe.xsd" rcpID="K60-01-06">
+  <ns0:meta>
+    <ns0:book>Kochbuch60</ns0:book>
+    <ns0:chapter>01 Fischgerichte</ns0:chapter>
+  </ns0:meta>
+  <ns0:recipeName>Heringe mit Zwiebeln, in sauerer So&#223;e eingelegt</ns0:recipeName>
+  <ns0:recipeKeywords />
+  <ns0:recipeIntro />
+  <ns0:recipeIngredients>
+    <ns0:igdtList>
+      <ns0:igdtListName />
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>4 kg</ns0:igdtQuantity>
+        <ns0:igdtName ref="hering">Salzheringe</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>1 kg</ns0:igdtQuantity>
+        <ns0:igdtName ref="zwiebel">Zwiebeln</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>0,5 l</ns0:igdtQuantity>
+        <ns0:igdtName ref="sahne">Saure Sahne</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity />
+        <ns0:igdtName ref="">Salz</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity />
+        <ns0:igdtName ref="pfeffer">Pfeffer</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity />
+        <ns0:igdtName ref="zitrone">Zitronensaft</ns0:igdtName>
+      </ns0:igdtListLine>
+    </ns0:igdtList>
+  </ns0:recipeIngredients>
+  <ns0:recipeInstructions>
+    <ns0:instruction>
+      <ns0:instrStepName />
+      <ns0:instrStepText />
+    </ns0:instruction>
+  </ns0:recipeInstructions>
+  <ns0:recipeSideDish />
+  <ns0:recipeOrigin />
+  <ns0:recipeSeeAlso />
+  <ns0:recipeLicense />
+</ns0:recipe>

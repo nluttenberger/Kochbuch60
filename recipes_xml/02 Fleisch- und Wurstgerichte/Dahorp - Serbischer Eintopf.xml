@@ -1,69 +1,68 @@
-<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE stylesheet SYSTEM "file:///c:/users/nlutt/documents/Websites/tools/entities.dtd">
-<fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="K60-02-02">
-    <fr:meta>
-        <fr:book>Kochbuch60</fr:book>
-        <fr:chapter>02 Fleisch- und Wurstgerichte</fr:chapter>
-    </fr:meta>
-    <fr:recipeName>Dahorp - Serbischer Eintopf</fr:recipeName>
-    <fr:recipeKeywords/>
-    <fr:recipeIntro/>
-    <fr:recipeIngredients>
-        <fr:igdtList>
-            <fr:igdtListName/>
-            <fr:igdtListLine>
-                <fr:igdtQuantity>500 g</fr:igdtQuantity>
-                <fr:igdtName ref="rindfleisch">mageres Hammel- oder Kochrindfleisch</fr:igdtName>
-            </fr:igdtListLine>
-            <fr:igdtListLine>
-                <fr:igdtQuantity/>
-                <fr:igdtName ref="suppengemüse">Suppengrün</fr:igdtName>
-            </fr:igdtListLine>
-            <fr:igdtListLine>
-                <fr:igdtQuantity>2</fr:igdtQuantity>
-                <fr:igdtName ref="zwiebel">Zwiebeln</fr:igdtName>
-            </fr:igdtListLine>
-            <fr:igdtListLine>
-                <fr:igdtQuantity>1</fr:igdtQuantity>
-                <fr:igdtName ref="knoblauch">Knoblauchzehe</fr:igdtName>
-            </fr:igdtListLine>
-            <fr:igdtListLine>
-                <fr:igdtQuantity>200 g</fr:igdtQuantity>
-                <fr:igdtName ref="reis">Reis</fr:igdtName>
-            </fr:igdtListLine>
-            <fr:igdtListLine>
-                <fr:igdtQuantity>20 g</fr:igdtQuantity>
-                <fr:igdtName ref="weizenmehl">Mehl</fr:igdtName>
-            </fr:igdtListLine>
-            <fr:igdtListLine>
-                <fr:igdtQuantity>20 g</fr:igdtQuantity>
-                <fr:igdtName ref="">Fett</fr:igdtName>
-            </fr:igdtListLine>
-            <fr:igdtListLine>
-                <fr:igdtQuantity>1</fr:igdtQuantity>
-                <fr:igdtName ref="paprika">Paprikaschote</fr:igdtName>
-            </fr:igdtListLine>
-            <fr:igdtListLine>
-                <fr:igdtQuantity/>
-                <fr:igdtName ref="essig">Essig</fr:igdtName>
-            </fr:igdtListLine>
-            <fr:igdtListLine>
-                <fr:igdtQuantity/>
-                <fr:igdtName ref="">Salz</fr:igdtName>
-            </fr:igdtListLine>
-            <fr:igdtListLine>
-                <fr:igdtQuantity/>
-                <fr:igdtName ref="">Pfeffer</fr:igdtName>
-            </fr:igdtListLine>
-        </fr:igdtList>
-    </fr:recipeIngredients>
-    <fr:recipeInstructions>
-        <fr:instruction>
-            <fr:instrStepName/>
-            <fr:instrStepText/>
-        </fr:instruction>
-    </fr:recipeInstructions>
-    <fr:recipeSideDish/>
-    <fr:recipeOrigin/>
-    <fr:recipeSeeAlso/>
-    <fr:recipeLicense/>
-</fr:recipe>
+<ns0:recipe xmlns:ns0="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="K60-02-02">
+  <ns0:meta>
+    <ns0:book>Kochbuch60</ns0:book>
+    <ns0:chapter>02 Fleisch- und Wurstgerichte</ns0:chapter>
+  </ns0:meta>
+  <ns0:recipeName>Dahorp - Serbischer Eintopf</ns0:recipeName>
+  <ns0:recipeKeywords />
+  <ns0:recipeIntro />
+  <ns0:recipeIngredients>
+    <ns0:igdtList>
+      <ns0:igdtListName />
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>500 g</ns0:igdtQuantity>
+        <ns0:igdtName ref="rindfleisch">mageres Hammel- oder Kochrindfleisch</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity />
+        <ns0:igdtName ref="suppengem&#252;se">Suppengr&#252;n</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>2</ns0:igdtQuantity>
+        <ns0:igdtName ref="zwiebel">Zwiebeln</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>1</ns0:igdtQuantity>
+        <ns0:igdtName ref="knoblauch">Knoblauchzehe</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>200 g</ns0:igdtQuantity>
+        <ns0:igdtName ref="reis">Reis</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>20 g</ns0:igdtQuantity>
+        <ns0:igdtName ref="weizenmehl">Mehl</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>20 g</ns0:igdtQuantity>
+        <ns0:igdtName ref="">Fett</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>1</ns0:igdtQuantity>
+        <ns0:igdtName ref="paprika">Paprikaschote</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity />
+        <ns0:igdtName ref="essig">Essig</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity />
+        <ns0:igdtName ref="">Salz</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity />
+        <ns0:igdtName ref="pfeffer">Pfeffer</ns0:igdtName>
+      </ns0:igdtListLine>
+    </ns0:igdtList>
+  </ns0:recipeIngredients>
+  <ns0:recipeInstructions>
+    <ns0:instruction>
+      <ns0:instrStepName />
+      <ns0:instrStepText />
+    </ns0:instruction>
+  </ns0:recipeInstructions>
+  <ns0:recipeSideDish />
+  <ns0:recipeOrigin />
+  <ns0:recipeSeeAlso />
+  <ns0:recipeLicense />
+</ns0:recipe>

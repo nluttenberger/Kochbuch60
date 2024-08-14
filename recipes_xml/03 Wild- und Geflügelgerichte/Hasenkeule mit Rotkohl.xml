@@ -1,2 +1,108 @@
-<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE stylesheet SYSTEM "file:///c:/users/nlutt/documents/Websites/tools/entities.dtd"><fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:ht="http://www.w3.org/1999/xhtml" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/websites/tools/recipe.xsd" rcpID="K60-03-02">
-<fr:meta><fr:book>Kochbuch60</fr:book><fr:chapter>03 Wild- und Geflügelgerichte</fr:chapter></fr:meta><fr:recipeName>Hasenkeule mit Rotkohl</fr:recipeName><fr:recipeKeywords></fr:recipeKeywords><fr:recipeIntro/><fr:recipeIngredients><fr:igdtList><fr:igdtListName></fr:igdtListName><fr:igdtListLine><fr:igdtQuantity>4</fr:igdtQuantity><fr:igdtName ref="kaninchen">küchenfertige Hasenkeulen</fr:igdtName></fr:igdtListLine><fr:igdtListLine><fr:igdtQuantity></fr:igdtQuantity><fr:igdtName ref="">Salz</fr:igdtName></fr:igdtListLine><fr:igdtListLine><fr:igdtQuantity></fr:igdtQuantity><fr:igdtName ref="">Pfeffer</fr:igdtName></fr:igdtListLine><fr:igdtListLine><fr:igdtQuantity></fr:igdtQuantity><fr:igdtName ref="wacholder">Wacholderbeeren</fr:igdtName></fr:igdtListLine><fr:igdtListLine><fr:igdtQuantity></fr:igdtQuantity><fr:igdtName ref="senfkörner">Senfkörner</fr:igdtName></fr:igdtListLine><fr:igdtListLine><fr:igdtQuantity></fr:igdtQuantity><fr:igdtName ref="pfeffer">Pfefferkörner</fr:igdtName></fr:igdtListLine><fr:igdtListLine><fr:igdtQuantity>1</fr:igdtQuantity><fr:igdtName ref="lorbeer">Lorbeerblatt</fr:igdtName></fr:igdtListLine><fr:igdtListLine><fr:igdtQuantity>2 - 3 EL</fr:igdtQuantity><fr:igdtName ref="orange">ger. Orangenschale</fr:igdtName></fr:igdtListLine><fr:igdtListLine><fr:igdtQuantity>1 EL</fr:igdtQuantity><fr:igdtName ref="herbes_de_provence">Kräuter der Provence</fr:igdtName></fr:igdtListLine><fr:igdtListLine><fr:igdtQuantity></fr:igdtQuantity><fr:igdtName ref="">Pflanzenfett zum Anbraten</fr:igdtName></fr:igdtListLine><fr:igdtListLine><fr:igdtQuantity>500 g</fr:igdtQuantity><fr:igdtName ref="suppengemüse">Röstgemüse (Zwiebeln, Sellerie, Karotten)</fr:igdtName></fr:igdtListLine><fr:igdtListLine><fr:igdtQuantity>2 - 3 EL</fr:igdtQuantity><fr:igdtName ref="tomatenmark">Tomatenmark</fr:igdtName></fr:igdtListLine><fr:igdtListLine><fr:igdtQuantity>1/4 l</fr:igdtQuantity><fr:igdtName ref="">Orangensaft</fr:igdtName></fr:igdtListLine><fr:igdtListLine><fr:igdtQuantity>1/4 l</fr:igdtQuantity><fr:igdtName ref="wein">Rotwein</fr:igdtName></fr:igdtListLine><fr:igdtListLine><fr:igdtQuantity>1/4 l</fr:igdtQuantity><fr:igdtName ref="brühe">Gemüsebrühe</fr:igdtName></fr:igdtListLine><fr:igdtListLine><fr:igdtQuantity>2 - 3 EL</fr:igdtQuantity><fr:igdtName ref="weizenmehl">Mehl</fr:igdtName></fr:igdtListLine><fr:igdtListLine><fr:igdtQuantity>1 1/2 Becher</fr:igdtQuantity><fr:igdtName ref="sahne">Sahne</fr:igdtName></fr:igdtListLine><fr:igdtListLine><fr:igdtQuantity>2 - 3 EL</fr:igdtQuantity><fr:igdtName ref="gelee">Orangengelee</fr:igdtName></fr:igdtListLine><fr:igdtListLine><fr:igdtQuantity>1 - 2 EL</fr:igdtQuantity><fr:igdtName ref="essig">Obstessig</fr:igdtName></fr:igdtListLine><fr:igdtListLine><fr:igdtQuantity>4 cl</fr:igdtQuantity><fr:igdtName ref="orangenlikör">Orangenlikör</fr:igdtName></fr:igdtListLine><fr:igdtListLine><fr:igdtQuantity></fr:igdtQuantity><fr:igdtName ref="zitronenmelisse">Zitronenmelissezweige</fr:igdtName></fr:igdtListLine></fr:igdtList></fr:recipeIngredients>    <fr:recipeInstructions>                  <fr:instruction>             <fr:instrStepName></fr:instrStepName>             <fr:instrStepText></fr:instrStepText>         </fr:instruction>     </fr:recipeInstructions><fr:recipeSideDish></fr:recipeSideDish><fr:recipeOrigin></fr:recipeOrigin><fr:recipeSeeAlso></fr:recipeSeeAlso><fr:recipeLicense></fr:recipeLicense></fr:recipe>
+<ns0:recipe xmlns:ns0="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/websites/tools/recipe.xsd" rcpID="K60-03-02">
+  <ns0:meta>
+    <ns0:book>Kochbuch60</ns0:book>
+    <ns0:chapter>03 Wild- und Gefl&#252;gelgerichte</ns0:chapter>
+  </ns0:meta>
+  <ns0:recipeName>Hasenkeule mit Rotkohl</ns0:recipeName>
+  <ns0:recipeKeywords />
+  <ns0:recipeIntro />
+  <ns0:recipeIngredients>
+    <ns0:igdtList>
+      <ns0:igdtListName />
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>4</ns0:igdtQuantity>
+        <ns0:igdtName ref="hase">k&#252;chenfertige Hasenkeulen</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity />
+        <ns0:igdtName ref="">Salz</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity />
+        <ns0:igdtName ref="pfeffer">Pfeffer</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity />
+        <ns0:igdtName ref="wacholder">Wacholderbeeren</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity />
+        <ns0:igdtName ref="senfsamen">Senfk&#246;rner</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity />
+        <ns0:igdtName ref="pfeffer">Pfefferk&#246;rner</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>1</ns0:igdtQuantity>
+        <ns0:igdtName ref="lorbeer">Lorbeerblatt</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>2 - 3 EL</ns0:igdtQuantity>
+        <ns0:igdtName ref="orangenschale">ger. Orangenschale</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>1 EL</ns0:igdtQuantity>
+        <ns0:igdtName ref="herbes_de_provence">Kr&#228;uter der Provence</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity />
+        <ns0:igdtName ref="pflanzenfett">Pflanzenfett zum Anbraten</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>500 g</ns0:igdtQuantity>
+        <ns0:igdtName ref="knollensellerie">R&#246;stgem&#252;se (Zwiebeln, Sellerie, Karotten)</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>2 - 3 EL</ns0:igdtQuantity>
+        <ns0:igdtName ref="tomatenmark">Tomatenmark</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>1/4 l</ns0:igdtQuantity>
+        <ns0:igdtName ref="orangensaft">Orangensaft</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>1/4 l</ns0:igdtQuantity>
+        <ns0:igdtName ref="rotwein">Rotwein</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>1/4 l</ns0:igdtQuantity>
+        <ns0:igdtName ref="gem&#252;sebr&#252;he">Gem&#252;sebr&#252;he</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>2 - 3 EL</ns0:igdtQuantity>
+        <ns0:igdtName ref="weizenmehl">Mehl</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>1 1/2 Becher</ns0:igdtQuantity>
+        <ns0:igdtName ref="sahne">Sahne</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>2 - 3 EL</ns0:igdtQuantity>
+        <ns0:igdtName ref="orange">Orangengelee</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>1 - 2 EL</ns0:igdtQuantity>
+        <ns0:igdtName ref="obstessig">Obstessig</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>4 cl</ns0:igdtQuantity>
+        <ns0:igdtName ref="orangenlik&#246;r">Orangenlik&#246;r</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity />
+        <ns0:igdtName ref="zitronenmelisse">Zitronenmelissezweige</ns0:igdtName>
+      </ns0:igdtListLine>
+    </ns0:igdtList>
+  </ns0:recipeIngredients>
+  <ns0:recipeInstructions>
+    <ns0:instruction>
+      <ns0:instrStepName />
+      <ns0:instrStepText />
+    </ns0:instruction>
+  </ns0:recipeInstructions>
+  <ns0:recipeSideDish />
+  <ns0:recipeOrigin />
+  <ns0:recipeSeeAlso />
+  <ns0:recipeLicense />
+</ns0:recipe>
